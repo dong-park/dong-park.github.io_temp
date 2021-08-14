@@ -11,7 +11,7 @@
   * Spring Boto
     * [X] Auth
     * [X] OOP(2021.05 ~ 2021-08)
-    * [X] QueryDsl(2021.05 ~ 2021.06)
+    * [X] Hibernate(2021.05 ~ 2021.06)
     * [ ] MAS(2021.06 ~)
 * Application
   * flutter
