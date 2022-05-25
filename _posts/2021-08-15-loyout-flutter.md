@@ -1,3 +1,9 @@
+---
+layout: post
+title: "플러터의 레이아웃"
+author: "dongpark"
+category: log
+---
 # Flutter 레이아웃
 ### 플러터의 핵심 메커니즘
 * 플러터의 레이아웃 메커니즘의 핵심은 위젯이다.
