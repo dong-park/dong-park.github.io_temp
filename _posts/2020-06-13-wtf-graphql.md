@@ -2,7 +2,7 @@
 layout: post
 title: "GraphQL이 뭐길래?"
 author: "dongpark"
-category: study
+category: post
 ---
 ## What is GraphQL?
 

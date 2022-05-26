@@ -21,11 +21,16 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-paginate-categories
   # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
 permalink:      /:categories/:year-:month-:day/:title
-paginate:       5
+paginate: 5
+paginate_path: "/page/:num"
+
+paginate_category_basepath: '/category/:name/'
+paginate_category_layout: 'category.html'
 
 # Related posts settings
 related_posts_section:
