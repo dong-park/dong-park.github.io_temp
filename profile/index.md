@@ -1,8 +1,7 @@
 ---
 layout: post
-title: 
+title: Introduce
 ---
-# Introduce
 
 안녕하세요 웹 개발자 박동환입니다.
 개발자의 가치는 불편함의 갈증을 해소하는 데에서 온다 생각합니다.
