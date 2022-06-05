@@ -2,7 +2,7 @@
 layout: post
 title: "소켓통신 야매 클래스"
 author: "dongpark"
-category: post
+category: [post, main]
 ---
 
 ## 소켓이란?
